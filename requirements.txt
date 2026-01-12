@@ -22,3 +22,5 @@ langchain_chroma
 beautifulsoup4
 
 langchain-core
+
+streamlit
